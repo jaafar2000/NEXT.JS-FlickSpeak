@@ -11,7 +11,7 @@ Thanks for checking out this Application.
 
 ## Links
 
-- Live Site URL : NEED SOME fixes
+- Live Site URL : Not deployed yet
 
 ## My process
 
